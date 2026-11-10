@@ -16,6 +16,19 @@
       "notes": "A fully funded postgraduate scholarship at the University of Cambridge for citizens of any country outside the UK, with the international-round deadline on 8 December 2026 or 6 January 2027 depending on the course funding deadline."
     },
     {
+      "id": 8,
+      "title": "DAAD EPOS IWRM-MENA Scholarship 2027 — Integrated Water Resources Management",
+      "provider": "DAAD / TH Köln and German Jordanian University",
+      "country": "Germany / Jordan",
+      "type": "Masters",
+      "deadline": null,
+      "funding": "Fully funded",
+      "status": "Saved",
+      "priority": "Medium",
+      "link": "https://potenue.com/2026/10/18/daad-epos-iwrm-mena-scholarship-2027-fully-funded-masters-in-germany/",
+      "notes": "Kept for a later cycle — NOT eligible now. DAAD EPOS requires a completed Bachelor's degree plus at least 2 years of related professional experience after the degree, with employment certificates (source: DAAD official EPOS requirements page, https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777). Eligible only after degree (July 2027) + 2 years' relevant work, so earliest realistic cycle around 2029. The 15 Nov 2026 date was the IWRM-MENA course listing's deadline — ignored this cycle."
+    },
+    {
       "id": 5,
       "title": "Mitacs Globalink (GRI + GRA)",
       "provider": "",
@@ -156,17 +169,6 @@
       "link": "https://www.studyabroadwitharbaz.com/2026/10/mext-scholarship-science-tokyo-2027.html",
       "summary": "A fully funded MEXT scholarship for master's and doctoral study in science and engineering at Science Tokyo starting September 2027, covering tuition and a monthly living allowance via university nomination.",
       "found_at": "2026-11-08T02:17:23.200Z"
-    },
-    {
-      "id": 9,
-      "title": "DAAD EPOS IWRM-MENA Scholarship 2027 — Integrated Water Resources Management",
-      "provider": "DAAD / TH Köln and German Jordanian University",
-      "country": "Germany / Jordan",
-      "type": "Masters",
-      "deadline": "2026-11-15",
-      "link": "https://potenue.com/2026/10/18/daad-epos-iwrm-mena-scholarship-2027-fully-funded-masters-in-germany/",
-      "summary": "A fully funded DAAD EPOS master's in integrated water resources management in Germany with a compulsory semester in Jordan, for graduates from DAC-listed countries with at least two years of relevant professional experience.",
-      "found_at": "2026-11-08T02:17:23.177Z"
     },
     {
       "id": 8,
