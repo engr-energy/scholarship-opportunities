@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09",
+  "last_updated": "2026-11-10",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -69,6 +69,39 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 17,
+      "title": "NTU Global Connect Fellowship 2027 — Singapore",
+      "provider": "Nanyang Technological University",
+      "country": "Singapore",
+      "type": "Fellowship",
+      "deadline": "2027-02-15",
+      "link": "https://www.ntu.edu.sg/about-us/global/global-connect-fellowship/programme-details",
+      "summary": "Two-month funded research fellowship from 1 July to 31 August 2027 for STEM students graduating in 2027 or 2028, with a SGD 5,000 stipend and complimentary housing; applications run 15 January to 15 February 2027.",
+      "found_at": "2026-11-10T02:17:58.532Z"
+    },
+    {
+      "id": 16,
+      "title": "USTC CSC Scholarship 2027 — University of Science and Technology of China",
+      "provider": "USTC / Chinese Government Scholarship",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-01-20",
+      "link": "https://scholarshipsland.com/university-of-science-and-technology-of-china/",
+      "summary": "Fully funded CSC master's or PhD at USTC, with the online application period running 25 October 2026 to 20 January 2027.",
+      "found_at": "2026-11-10T02:17:58.512Z"
+    },
+    {
+      "id": 15,
+      "title": "Erasmus Mundus GrEnFIn Joint Master 2027–2029 — Greening Energy Market and Finance",
+      "provider": "Erasmus Mundus / University of Bologna",
+      "country": "Europe",
+      "type": "Masters",
+      "deadline": "2027-01-07",
+      "link": "https://greening-energy-market-finance-emjm.eu/application",
+      "summary": "Fully funded two-year joint master's in greening energy markets and finance across Italy, Germany and France, covering participation costs plus €1,400 per month for top-ranked applicants.",
+      "found_at": "2026-11-10T02:17:58.469Z"
+    },
     {
       "id": 14,
       "title": "KAUST Visiting Student Research Program (VSRP) 2027",
