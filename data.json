@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10",
+  "last_updated": "2026-11-11",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -14,6 +14,32 @@
       "priority": "Medium",
       "link": "https://nextdeadlines.com/gates-cambridge-scholarship-2027/",
       "notes": "A fully funded postgraduate scholarship at the University of Cambridge for citizens of any country outside the UK, with the international-round deadline on 8 December 2026 or 6 January 2027 depending on the course funding deadline."
+    },
+    {
+      "id": 10,
+      "title": "Erasmus Mundus Joint Masters",
+      "provider": "",
+      "country": "Europe · 2+ countries",
+      "type": "Masters",
+      "deadline": null,
+      "funding": "€1,400/month, tuition and travel covered",
+      "status": "Researching",
+      "priority": "Medium",
+      "link": "",
+      "notes": "Your Tier A targets from your booklet: DENSYS 2.0, REM+, STEPS, GrEnFIn — all energy-focused. Sep 2028 entry is your main window (2028 deadlines not yet published)."
+    },
+    {
+      "id": 9,
+      "title": "Erasmus Mundus Joint Masters",
+      "provider": "",
+      "country": "Europe · 2+ countries",
+      "type": "Masters",
+      "deadline": null,
+      "funding": "€1,400/month, tuition and travel covered",
+      "status": "Researching",
+      "priority": "Medium",
+      "link": "",
+      "notes": "Your Tier A targets from your booklet: DENSYS 2.0, REM+, STEPS, GrEnFIn — all energy-focused. Sep 2028 entry is your main window (2028 deadlines not yet published)."
     },
     {
       "id": 8,
@@ -82,6 +108,39 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 20,
+      "title": "Fulbright Degree Program Pakistan 2028 (via USEFP)",
+      "provider": "USEFP / US Government",
+      "country": "United States",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.scholarship.ac.pk/scholarship/fulbright-pakistan/",
+      "summary": "Fully funded US master's/PhD covering tuition, living stipend, airfare, health insurance and more; the 2027 round closed 1 April 2026 and the 2028 round is expected to open around February 2027, with no date announced yet.",
+      "found_at": "2026-11-11T02:17:49.652Z"
+    },
+    {
+      "id": 19,
+      "title": "Gates Cambridge Scholarship 2027/28",
+      "provider": "Gates Cambridge Trust / University of Cambridge",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.scholarship.ac.pk/scholarship/gates-cambridge/",
+      "summary": "Full-cost postgraduate scholarship at Cambridge covering tuition, a maintenance allowance, visa costs and airfare; applicants must apply by their course's funding deadline, either 8 December 2026 or 6 January 2027.",
+      "found_at": "2026-11-11T02:17:49.630Z"
+    },
+    {
+      "id": 18,
+      "title": "Türkiye Burslari Scholarship 2027",
+      "provider": "YTB / Government of Türkiye",
+      "country": "Türkiye",
+      "type": "Masters",
+      "deadline": "2027-02-20",
+      "link": "https://www.ieltstechnique.com/2026/11/turkiye-burslari-scholarship-2027-how-to-apply.html",
+      "summary": "Fully funded master's in Türkiye covering tuition, a monthly stipend, dormitory, health insurance, flights and a free one-year Turkish course, via a single TBBS application with no IELTS required.",
+      "found_at": "2026-11-11T02:17:49.592Z"
+    },
     {
       "id": 17,
       "title": "NTU Global Connect Fellowship 2027 — Singapore",
@@ -234,7 +293,7 @@
       "deadline": "2027-01-08",
       "link": "https://opportunitiesforeveryone.net/erasmus-mundus-steps-scholarship-2027-fully-funded-masters-in-sustainable-transportation-and-electric-power-systems/",
       "summary": "A fully funded two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
-      "found_at": "2026-11-08T02:17:23.013Z"
+      "found_at": "2026-11-08T02:17:22.970Z"
     },
     {
       "id": 1,
