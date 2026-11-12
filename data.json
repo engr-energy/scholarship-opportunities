@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,50 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 24,
+      "title": "Gates Cambridge Scholarship 2027-28",
+      "provider": "Gates Cambridge Trust / University of Cambridge",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.scholarshipledger.com/blog/gates-cambridge-scholarship-2027-28-a-complete-guide-for-pakistani-applicants",
+      "summary": "Full-cost scholarship covering Cambridge fees, maintenance, flights, visa and health surcharge for eligible full-time master's/PhD study starting October 2027, with international-round course deadlines of 8 December 2026 or 6 January 2027.",
+      "found_at": "2026-11-12T02:18:06.798Z"
+    },
+    {
+      "id": 23,
+      "title": "Stipendium Hungaricum Scholarship 2027-2028",
+      "provider": "Government of Hungary / Tempus Public Foundation",
+      "country": "Hungary",
+      "type": "Masters",
+      "deadline": "2027-01-15",
+      "link": "https://www.ieltstechnique.com/2026/11/stipendium-hungaricum-scholarship-2027-how-to-apply.html",
+      "summary": "Fully funded Hungarian government scholarship covering tuition, housing, healthcare and a monthly stipend for master's study, requiring both the Tempus portal application and HEC Pakistan nomination.",
+      "found_at": "2026-11-12T02:18:06.779Z"
+    },
+    {
+      "id": 22,
+      "title": "Tongji University CSC Scholarship 2027-2028",
+      "provider": "Chinese Government Scholarship (CSC) / Tongji University",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2026-12-20",
+      "link": "https://www.scholarshipsads.com/tongji-university-chinese-government-scholarship",
+      "summary": "Fully funded CSC Type B High-Level Postgraduate master's/PhD at Tongji University in Shanghai for Fall 2027 entry, covering tuition and living support.",
+      "found_at": "2026-11-12T02:18:06.760Z"
+    },
+    {
+      "id": 21,
+      "title": "Erasmus Mundus DENSYS 2.0 — Decentralised Smart Energy Systems 2027-2029",
+      "provider": "Erasmus Mundus / Université de Lorraine",
+      "country": "France / Europe",
+      "type": "Masters",
+      "deadline": "2027-01-27",
+      "link": "http://densys.univ-lorraine.fr",
+      "summary": "Fully funded two-year Erasmus Mundus joint master's in decentralised smart energy systems, including thermal energy engineering, for September 2027 entry.",
+      "found_at": "2026-11-12T02:18:06.722Z"
+    },
     {
       "id": 20,
       "title": "Fulbright Degree Program Pakistan 2028 (via USEFP)",
