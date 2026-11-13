@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12",
+  "last_updated": "2026-11-13",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,83 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 31,
+      "title": "Global Korea Scholarship (GKS) Graduate 2027 — Fully Funded Master's in South Korea",
+      "provider": "NIIED, Government of South Korea",
+      "country": "South Korea",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://koreaadmit.com/scholarships/gks-graduate",
+      "summary": "Fully funded Korean government scholarship covering tuition, airfare and a monthly stipend plus one year of Korean language training, with graduate applications expected to open in Feb 2027 and no single confirmed deadline yet.",
+      "found_at": "2026-11-13T02:18:35.269Z"
+    },
+    {
+      "id": 30,
+      "title": "Stipendium Hungaricum 2027/28 — Fully Funded Master's in Hungary (via HEC Pakistan)",
+      "provider": "Government of Hungary / Tempus Public Foundation",
+      "country": "Hungary",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.scholarship.ac.pk/scholarship/stipendium-hungaricum/",
+      "summary": "Fully funded Hungarian government scholarship covering tuition and a monthly stipend for master's study, requiring applications on both the Hungarian portal and the HEC Pakistan portal, with the 2027/28 call not yet published as of 13 Nov 2026.",
+      "found_at": "2026-11-13T02:18:35.249Z"
+    },
+    {
+      "id": 29,
+      "title": "HUST CSC Scholarship 2027 — Fully Funded Master's/PhD in China (incl. Silk Road, Pakistan eligible)",
+      "provider": "Chinese Government Scholarship (CSC) / Huazhong University of Science and Technology",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-02-25",
+      "link": "https://marwatspeaks.com/hust-csc-scholarship-2027-fully-funded-complete-guide-for-masters-phd/",
+      "summary": "Fully funded CSC scholarship covering tuition, accommodation and a monthly stipend, with Pakistan explicitly eligible under the Silk Road Program for Sep 2027 entry.",
+      "found_at": "2026-11-13T02:18:35.228Z"
+    },
+    {
+      "id": 28,
+      "title": "Dalian University of Technology CSC Scholarship 2027 — Fully Funded Master's/PhD in China",
+      "provider": "Chinese Government Scholarship (CSC) / Dalian University of Technology",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-02-15",
+      "link": "https://parwaz.tech/posting/dalian-university-of-technology-csc-scholarship-2027-fully/",
+      "summary": "Fully funded CSC scholarship covering tuition, on-campus accommodation, medical insurance and a 3,000 CNY/month master's stipend for Sep 2027 entry.",
+      "found_at": "2026-11-13T02:18:35.204Z"
+    },
+    {
+      "id": 27,
+      "title": "Erasmus Mundus REM 2027 — Renewable Energy in the Marine Environment",
+      "provider": "Erasmus Mundus / University of the Basque Country",
+      "country": "Spain, United Kingdom, Norway, France",
+      "type": "Masters",
+      "deadline": "2027-02-15",
+      "link": "https://www.mastersportal.com/studies/285911/renewable-energy-in-the-marine-environment.html",
+      "summary": "Two-year Erasmus Mundus joint master's training engineers for offshore renewable energy systems, with Erasmus Mundus scholarships available for the Sep 2027 cohort.",
+      "found_at": "2026-11-13T02:18:35.170Z"
+    },
+    {
+      "id": 26,
+      "title": "Gates Cambridge Scholarship 2027/28 — Fully Funded Postgraduate at Cambridge",
+      "provider": "Gates Cambridge Trust, University of Cambridge",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": "2026-12-08",
+      "link": "https://www.careershelpdesk.com/gates-cambridge-scholarship/",
+      "summary": "Full-cost scholarship for eligible postgraduate study at Cambridge covering tuition, maintenance and travel, with the international funding deadline on 8 Dec 2026 or 6 Jan 2027 depending on the chosen course.",
+      "found_at": "2026-11-13T02:18:35.141Z"
+    },
+    {
+      "id": 25,
+      "title": "Commonwealth Shared Scholarships 2027/28 — Fully Funded Master's in the UK",
+      "provider": "Commonwealth Scholarship Commission (UK)",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": "2026-12-08",
+      "link": "https://parwaz.tech/posting/commonwealth-shared-scholarships-2027-28-fully-funded/",
+      "summary": "Fully funded one-year taught master's in the UK covering tuition, return airfare and a living stipend, applied for through a participating UK university for study starting Sep/Oct 2027.",
+      "found_at": "2026-11-13T02:18:35.093Z"
+    },
     {
       "id": 24,
       "title": "Gates Cambridge Scholarship 2027-28",
