@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-17",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,39 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 42,
+      "title": "Global Korea Scholarship (GKS) Graduate 2027",
+      "provider": "NIIED, Republic of Korea",
+      "country": "South Korea",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://newscholarship2023.blogspot.com/2026/10/scholarships-for-pakistani-students.html",
+      "summary": "Fully funded master's covering tuition, stipend, airfare and one year of Korean language training; the 2027 graduate guidelines are not yet published and the round is expected to open in February-March 2027.",
+      "found_at": "2026-11-17T02:18:17.292Z"
+    },
+    {
+      "id": 41,
+      "title": "GrEnFIn Erasmus Mundus Joint Master in Greening Energy Market and Finance 2027-2029",
+      "provider": "Erasmus Mundus / University of Bologna",
+      "country": "Italy / Germany / France",
+      "type": "Masters",
+      "deadline": "2027-01-07",
+      "link": "https://www.drbilal.com/scholarships/master/erasmus-mundus-grenfin-energy-climate-finance-2027",
+      "summary": "€1,400/month plus participation costs for a two-year master's in energy markets and climate finance across Bologna, Munich and Paris, with a Renewable Technologies track.",
+      "found_at": "2026-11-17T02:18:17.261Z"
+    },
+    {
+      "id": 40,
+      "title": "DENSYS 2.0 Erasmus Mundus Joint Master in Decentralised Smart Energy Systems 2027-2029",
+      "provider": "Erasmus Mundus / Université de Lorraine",
+      "country": "France / Europe",
+      "type": "Masters",
+      "deadline": "2027-01-27",
+      "link": "https://www.drbilal.com/scholarships/master/erasmus-mundus-densys-smart-energy-masters-2027",
+      "summary": "€1,400/month for 24 months plus participation costs for a two-year master's in decentralised smart energy systems, storage, hydrogen and smart grids across France, Sweden, Italy or Spain.",
+      "found_at": "2026-11-17T02:18:17.025Z"
+    },
     {
       "id": 39,
       "title": "DENSYS 2.0 Erasmus Mundus Joint Master — Decentralised Smart Energy Systems 2027–2029",
@@ -376,7 +409,7 @@
       "id": 15,
       "title": "Erasmus Mundus GrEnFIn Joint Master 2027–2029 — Greening Energy Market and Finance",
       "provider": "Erasmus Mundus / University of Bologna",
-      "country": "Europe",
+      "country": "Italy / Germany / France",
       "type": "Masters",
       "deadline": "2027-01-07",
       "link": "https://greening-energy-market-finance-emjm.eu/application",
@@ -501,7 +534,7 @@
       "type": "Masters",
       "deadline": "2027-01-08",
       "link": "https://opportunitiesforeveryone.net/erasmus-mundus-steps-scholarship-2027-fully-funded-masters-in-sustainable-transportation-and-electric-power-systems/",
-      "summary": "A fully funded two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
+      "summary": "A two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
       "found_at": "2026-11-08T02:17:22.970Z"
     },
     {
