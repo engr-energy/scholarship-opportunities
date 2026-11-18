@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17",
+  "last_updated": "2026-11-18",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,50 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 46,
+      "title": "KAIST Fall 2027 Graduate Admission — KAIST Scholarship (RA-funded MS)",
+      "provider": "KAIST",
+      "country": "South Korea",
+      "type": "Masters",
+      "deadline": "2027-02-05",
+      "link": "https://korea.campusdown.com/study-in-korea/phd-in-korea-for-international-students-1883",
+      "summary": "KAIST's automatic scholarship covers full tuition, health insurance and a monthly stipend plus lab RA pay for about 94% of international graduate students, with the Fall 2027 window running 7 January–5 February 2027.",
+      "found_at": "2026-11-18T02:18:59.322Z"
+    },
+    {
+      "id": 45,
+      "title": "CAS-ANSO Scholarship 2027 (UCAS / USTC)",
+      "provider": "ANSO / Chinese Academy of Sciences",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-02-28",
+      "link": "https://daadscholarship.com/anso-fully-funded-scholarship-2027-2028-application-process-began/",
+      "summary": "Fully funded master's or PhD at UCAS or USTC with full tuition, a CNY 3,000/month master's stipend, insurance and an application fee waiver, open since 17 November 2026.",
+      "found_at": "2026-11-18T02:18:59.300Z"
+    },
+    {
+      "id": 44,
+      "title": "Chinese Government Scholarship (CSC) Type A via HEC Pakistan 2027/28",
+      "provider": "HEC Pakistan / China Scholarship Council",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-01-05",
+      "link": "https://www.wiseadmit.io/blogs/csc-scholarship",
+      "summary": "Fully funded Chinese Government Scholarship for master's study in China via HEC's Type A route (agency 5861), covering tuition, accommodation and a monthly stipend.",
+      "found_at": "2026-11-18T02:18:59.275Z"
+    },
+    {
+      "id": 43,
+      "title": "EU-CORE Erasmus Mundus — European Master on Control of Renewable Energy Systems 2027",
+      "provider": "Centrale Nantes / Erasmus Mundus",
+      "country": "France",
+      "type": "Masters",
+      "deadline": "2027-01-31",
+      "link": "https://www.ec-nantes.fr:443/study/erasmus-mundus-joint-master-degrees/european-master-on-control-of-renewable-energy-systems-eu-core",
+      "summary": "Two-year joint master's training engineers in advanced control of all main renewable energy systems, with Erasmus+ EMJM and consortium scholarships for the 2027 intake.",
+      "found_at": "2026-11-18T02:18:59.218Z"
+    },
     {
       "id": 42,
       "title": "Global Korea Scholarship (GKS) Graduate 2027",
@@ -534,7 +578,7 @@
       "type": "Masters",
       "deadline": "2027-01-08",
       "link": "https://opportunitiesforeveryone.net/erasmus-mundus-steps-scholarship-2027-fully-funded-masters-in-sustainable-transportation-and-electric-power-systems/",
-      "summary": "A two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
+      "summary": "A fully funded two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
       "found_at": "2026-11-08T02:17:22.970Z"
     },
     {
