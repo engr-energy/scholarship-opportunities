@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20",
+  "last_updated": "2026-11-21",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,83 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 58,
+      "title": "RESCO Erasmus Mundus Scholarship 2027 — Renewable Energy and Sustainable Construction",
+      "provider": "Erasmus Mundus (RESCO consortium)",
+      "country": "Europe",
+      "type": "Masters",
+      "deadline": "2027-02-28",
+      "link": "https://www.scholarshiptab.com/scholarships/resco-erasmus-mundus-scholarship-2027",
+      "summary": "Fully funded two-year Erasmus Mundus joint master's in renewable energy systems and sustainable construction, with €1,400 per month for 24 months covering all study costs.",
+      "found_at": "2026-11-21T02:17:09.680Z"
+    },
+    {
+      "id": 57,
+      "title": "Türkiye Burslari Scholarship 2027 — Fully Funded Master's in Türkiye",
+      "provider": "Republic of Türkiye (YTB)",
+      "country": "Türkiye",
+      "type": "Masters",
+      "deadline": "2027-02-20",
+      "link": "https://opportunitycornors.com/turkiye-burslari-scholarship-2027-turkey/",
+      "summary": "Fully funded master's in Türkiye covering tuition, a monthly stipend, accommodation, health insurance, flights and a one-year Turkish language course, with applications running 10 January to 20 February 2027.",
+      "found_at": "2026-11-21T02:17:09.650Z"
+    },
+    {
+      "id": 56,
+      "title": "i-MESC Erasmus Mundus Scholarship 2027-29 — Materials for Energy Storage and Conversion",
+      "provider": "Erasmus Mundus (i-MESC consortium)",
+      "country": "Europe",
+      "type": "Masters",
+      "deadline": "2027-01-26",
+      "link": "https://cms.scholarshipscentral.com/i-mesc-erasmus-mundus-scholarship/",
+      "summary": "Fully funded two-year master's in materials for energy storage and conversion, with an Erasmus Mundus scholarship of €1,400 per month for 24 months.",
+      "found_at": "2026-11-21T02:17:09.630Z"
+    },
+    {
+      "id": 55,
+      "title": "Stipendium Hungaricum Scholarship 2027/28 — Fully Funded Master's in Hungary",
+      "provider": "Tempus Public Foundation / Government of Hungary",
+      "country": "Hungary",
+      "type": "Masters",
+      "deadline": "2027-01-15",
+      "link": "https://international.uni-pannon.hu/component/content/article/discover-yourself-discover-your-potential-discover-pannonia?catid=33&Itemid=348",
+      "summary": "Fully funded master's in Hungary covering tuition, monthly stipend, accommodation support and medical insurance, requiring applications via both the Hungarian portal and HEC Pakistan as sending partner.",
+      "found_at": "2026-11-21T02:17:09.606Z"
+    },
+    {
+      "id": 54,
+      "title": "Chinese Government Scholarship (CSC) Type A via HEC 2027-28 — Master's",
+      "provider": "China Scholarship Council / HEC Pakistan",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-01-05",
+      "link": "https://propakistani.pk/edunation/guides/how-to-study-in-china-with-the-csc-scholarship-masters-2027/",
+      "summary": "Fully funded master's in China (61 seats for Pakistan, including 21 master's) covering tuition, living allowance, health insurance and travel, applied for through both the HEC and CSC portals.",
+      "found_at": "2026-11-21T02:17:09.576Z"
+    },
+    {
+      "id": 53,
+      "title": "Gates Cambridge Scholarship 2027/28 — Full-Cost Postgraduate Award",
+      "provider": "Gates Cambridge Trust, University of Cambridge",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": "2026-12-08",
+      "link": "https://propakistani.pk/2026/09/15/fully-funded-gates-cambridge-scholarship-2027-for-masters-and-phd-in-the-uk-is-now-open/",
+      "summary": "Full-cost scholarship covering tuition, maintenance, travel, visa and health surcharge for eligible one-year master's (and PhD) courses at Cambridge, with the international deadline 8 December 2026 or 6 January 2027 depending on the course.",
+      "found_at": "2026-11-21T02:17:09.555Z"
+    },
+    {
+      "id": 52,
+      "title": "Commonwealth Shared Scholarships 2027/28 — Fully Funded UK Master's",
+      "provider": "Commonwealth Scholarship Commission (UK)",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": "2026-12-08",
+      "link": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
+      "summary": "Fully funded full-time master's in the UK for Pakistani citizens, covering tuition, return airfare and a monthly living allowance, for approved courses starting September/October 2027.",
+      "found_at": "2026-11-21T02:17:09.512Z"
+    },
     {
       "id": 51,
       "title": "Australia Awards Scholarship 2028 — Pakistan",
