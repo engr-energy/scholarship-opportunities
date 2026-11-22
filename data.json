@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21",
+  "last_updated": "2026-11-22",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -108,6 +108,39 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 61,
+      "title": "CERN Summer Student Programme 2027",
+      "provider": "CERN",
+      "country": "Switzerland",
+      "type": "Internship",
+      "deadline": "2027-01-21",
+      "link": "https://www.impactpool.org/jobs/1246048",
+      "summary": "Paid 8-13 week summer research placement in Geneva for bachelor's/master's students in physics, engineering, computing or maths, paying CHF 94 per day plus travel and accommodation help.",
+      "found_at": "2026-11-22T02:17:21.096Z"
+    },
+    {
+      "id": 60,
+      "title": "Gates Cambridge Scholarship 2027",
+      "provider": "Gates Cambridge Trust",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.opportunitynest.org/guides/gates-cambridge-scholarship/",
+      "summary": "Full-cost postgraduate award at the University of Cambridge for non-UK citizens, covering fees, a maintenance allowance, travel and visa/health costs; the international deadline is 8 December 2026 or 6 January 2027 depending on the course, so no single deadline is given.",
+      "found_at": "2026-11-22T02:17:21.057Z"
+    },
+    {
+      "id": 59,
+      "title": "RESCO Erasmus Mundus Joint Master 2027-2029",
+      "provider": "Erasmus Mundus — RESCO consortium",
+      "country": "Europe",
+      "type": "Masters",
+      "deadline": "2027-02-28",
+      "link": "https://opportunitylab.net/resco-erasmus-mundus-scholarships-2027-2029/",
+      "summary": "Fully funded two-year joint master's in renewable energy and sustainable construction, paying EUR 1,400 per month plus a full tuition waiver.",
+      "found_at": "2026-11-22T02:17:21.009Z"
+    },
     {
       "id": 58,
       "title": "RESCO Erasmus Mundus Scholarship 2027 — Renewable Energy and Sustainable Construction",
@@ -523,7 +556,7 @@
       "type": "Masters",
       "deadline": "2027-01-27",
       "link": "http://densys.univ-lorraine.fr",
-      "summary": "Fully funded two-year Erasmus Mundus joint master's in decentralised smart energy systems, including thermal energy engineering, for September 2027 entry.",
+      "summary": "Fully funded two-year Erasmus Mundus master's in decentralised smart energy systems, including thermal energy engineering, for September 2027 entry.",
       "found_at": "2026-11-12T02:18:06.722Z"
     },
     {
@@ -606,7 +639,7 @@
     {
       "id": 13,
       "title": "HUST CSC Scholarship 2027 — Chinese Government Scholarship Type B",
-      "provider": "Chinese Government Scholarship (CSC) / Huazhong University of Science and Technology",
+      "provider": "Chinese Government Scholarship / Huazhong University of Science and Technology",
       "country": "China",
       "type": "Masters",
       "deadline": "2027-02-25",
@@ -621,8 +654,8 @@
       "country": "Hungary",
       "type": "Masters",
       "deadline": "2027-01-15",
-      "link": "http://scholarshipsjet.com/2026/07/13/stipendium-hungaricum-scholarship-2027-fully-funded-hungarian-government-scholarship/",
-      "summary": "Fully funded master's in Hungary covering tuition, housing allowance, medical insurance and a HUF 43,700/month stipend, applied for through both Tempus and the home-country Sending Partner.",
+      "link": "http://scholarshipsjet.com/2026/07/13/stipendium-hungaricum-2027-fully-funded-hungarian-government-scholarship/",
+      "summary": "Fully funded Hungarian government scholarship covering tuition, housing allowance, medical insurance and a HUF 43,700/month stipend, applied for through both Tempus and the home-country Sending Partner.",
       "found_at": "2026-11-09T02:17:53.835Z"
     },
     {
@@ -710,18 +743,7 @@
       "type": "Masters",
       "deadline": "2027-01-08",
       "link": "https://opportunitiesforeveryone.net/erasmus-mundus-steps-scholarship-2027-fully-funded-masters-in-sustainable-transportation-and-electric-power-systems/",
-      "summary": "A fully funded two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
-      "found_at": "2026-11-08T02:17:22.970Z"
-    },
-    {
-      "id": 1,
-      "title": "Erasmus Mundus GrEnFIn — Greening Energy Market and Finance (2027–28)",
-      "provider": "Erasmus Mundus / University of Bologna",
-      "country": "Italy / Germany / France",
-      "type": "Masters",
-      "deadline": "2027-01-07",
-      "link": "https://greening-energy-market-finance-emjm.eu/news/call-for-applications-2027-2028",
-      "summary": "A fully funded two-year Erasmus Mundus Joint Master training Sustainable Energy Experts across Bologna, Munich and Paris, with tracks in Renewable Technologies, Environmental Finance and Climate & Business.",
+      "summary": "A two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
       "found_at": "2026-11-08T02:17:22.970Z"
     }
   ],
