@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22",
+  "last_updated": "2026-11-23",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -14,6 +14,19 @@
       "priority": "Medium",
       "link": "https://nextdeadlines.com/gates-cambridge-scholarship-2027/",
       "notes": "A fully funded postgraduate scholarship at the University of Cambridge for citizens of any country outside the UK, with the international-round deadline on 8 December 2026 or 6 January 2027 depending on the course funding deadline."
+    },
+    {
+      "id": 11,
+      "title": "PEC-PG Graduate Exchange Program 2027-28 (Brazil)",
+      "provider": "Brazil Ministry of Foreign Affairs (MRE) + CNPq / CAPES",
+      "country": "Brazil",
+      "type": "Masters",
+      "deadline": null,
+      "funding": "R$2,100/month for 24 months + public health cover + return travel; public universities tuition-free",
+      "status": "Saved",
+      "priority": "Low",
+      "link": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+      "notes": "Kept for a later cycle — NOT a Sep 2027 entry. PEC-PG 2027 (Brazil, MRE + CNPq/CAPES): up to 100 master's scholarships; Pakistan is a partner country (NDU Islamabad circulated the 2027-28 notice; confirm Pakistan on the official call-notice country list). LANGUAGE — checked 22 Nov 2026 on official pages: PEC-PG sets NO language rule itself — language is each programme's own rule (official MRE selection-process page). UNICAMP Energy Systems Planning (direct energy fit, School of Mechanical Engineering) asks for NO Portuguese certificate in its official call, and accepts a Declaration of Expected Graduation Date instead of a diploma — BUT its classes, entrance exam (dissertation test) and interview run in Portuguese in practice, and the 'English-taught' label comes from a secondary listing only, not the official call. So Portuguese is a practical requirement, not a paper one. ELIGIBILITY: PEC-PG requires a COMPLETED undergraduate degree (official MRE page) — he graduates Jul 2027, so only a Feb/Mar 2028 start works. TIMELINE: final HEI list Dec 2026; universities select candidates Dec 2026–Mar 2028; scholarships must start paying by Mar 2028. UNICAMP PSE runs two calls a year (1st-semester call ~Oct, 2nd-semester call ~Apr–May by pattern — both unverified for 2027/28, do not plan on them); realistic target is the 2028-1S call (~Oct 2027) for a Feb 2028 start. PSE selection needs a potential advisor contacted FIRST (nomination phase), 10 vacancies total for master's + doctorate, and GRE is mandatory for scholarship applicants who skip the entrance exam (exam is remote, so he can take it). Approval does not guarantee a scholarship. Sources: MRE PEC-PG selection process page; UNICAMP FEM PSE 2026-1S call (English PDF)."
     },
     {
       "id": 10,
@@ -108,6 +121,28 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 64,
+      "title": "Australia Awards Scholarship 2028 — Master's for Pakistani Students",
+      "provider": "Australian Government (DFAT)",
+      "country": "Australia",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://gradualin.com/australia-awards-scholarship-pakistan-2028/",
+      "summary": "Fully funded Australia Awards Scholarship for master's-only study in Australia for Pakistani citizens, covering tuition, flights, a living allowance and health cover, with the 2028 intake expected to open in February 2027 — confirm exact dates on the official site.",
+      "found_at": "2026-11-23T02:17:48.703Z"
+    },
+    {
+      "id": 63,
+      "title": "Gates Cambridge Scholarship 2027-28 — Master's / PhD at Cambridge",
+      "provider": "Gates Cambridge Trust",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.scholarhunter.com/gates-cambridge-scholarship/2026/",
+      "summary": "Fully funded Gates Cambridge Scholarship covering the full cost of an eligible one-year master's or PhD at the University of Cambridge, with international deadlines of 8 December 2026 or 6 January 2027 depending on the course.",
+      "found_at": "2026-11-23T02:17:48.662Z"
+    },
     {
       "id": 61,
       "title": "CERN Summer Student Programme 2027",
@@ -723,28 +758,6 @@
       "link": "https://scholarmena.com/scholarship/clarendon-scholarship-oxford-2027/",
       "summary": "A fully funded Oxford master's or DPhil award covering course fees plus a living-expenses grant, with automatic consideration for anyone applying to an eligible graduate course by its December 2026 or January 2027 scholarship deadline.",
       "found_at": "2026-11-08T02:17:23.091Z"
-    },
-    {
-      "id": 3,
-      "title": "Commonwealth Shared Scholarships 2027/28",
-      "provider": "Commonwealth Scholarship Commission (UK)",
-      "country": "United Kingdom",
-      "type": "Masters",
-      "deadline": "2026-12-08",
-      "link": "https://www.birmingham.ac.uk/study/scholarships-funding/commonwealth-shared-scholarship-scheme-1",
-      "summary": "A fully funded one-year taught master's in the UK for citizens of eligible Commonwealth countries including Pakistan, covering tuition, return airfare and a living allowance.",
-      "found_at": "2026-11-08T02:17:23.040Z"
-    },
-    {
-      "id": 2,
-      "title": "Erasmus Mundus STEPS — Sustainable Transportation and Electric Power Systems (2027)",
-      "provider": "Erasmus Mundus / University of Oviedo",
-      "country": "Spain / Germany / Italy / Portugal",
-      "type": "Masters",
-      "deadline": "2027-01-08",
-      "link": "https://opportunitiesforeveryone.net/erasmus-mundus-steps-scholarship-2027-fully-funded-masters-in-sustainable-transportation-and-electric-power-systems/",
-      "summary": "A two-year Erasmus Mundus Joint Master in renewable energy, electric power systems and electric mobility, with a scholarship contribution of €1,400 per month for up to 24 months.",
-      "found_at": "2026-11-08T02:17:22.970Z"
     }
   ],
   "documents": [
