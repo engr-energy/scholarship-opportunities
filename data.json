@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23",
+  "last_updated": "2026-11-24",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -121,6 +121,50 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 68,
+      "title": "RESCO Erasmus Mundus Joint Master in Renewable Energy and Sustainable Construction 2027–29",
+      "provider": "Erasmus Mundus (INSA Rouen Normandie consortium)",
+      "country": "France, Hungary, Portugal, Spain",
+      "type": "Masters",
+      "deadline": "2027-02-26",
+      "link": "https://www.scholarshipset.com/scholarships/erasmus-mundus-scholarship-in-renewable-energy-and-sustainable-construction-resco-2027",
+      "summary": "Two-year joint master's in renewable energy systems and sustainable construction with a full tuition waiver and a €1,400 monthly allowance for 24 months, with free application.",
+      "found_at": "2026-11-24T02:17:41.255Z"
+    },
+    {
+      "id": 67,
+      "title": "Stipendium Hungaricum Scholarship 2027/28 (Hungary)",
+      "provider": "Tempus Public Foundation (Government of Hungary)",
+      "country": "Hungary",
+      "type": "Masters",
+      "deadline": "2027-01-15",
+      "link": "https://scholarwing.com/stipendium-hungaricum-scholarship-hungary-guide/",
+      "summary": "Fully funded Hungarian government scholarship covering tuition, a monthly stipend, accommodation support and medical insurance for English-taught master's programmes, requiring applications on both the Stipendium Hungaricum portal and through HEC Pakistan as sending partner.",
+      "found_at": "2026-11-24T02:17:41.228Z"
+    },
+    {
+      "id": 66,
+      "title": "SMACCs Erasmus Mundus Joint Master in Smart Cities and Communities 2027–29",
+      "provider": "Erasmus Mundus (SMACCs Consortium)",
+      "country": "Belgium, Greece, Spain, Finland",
+      "type": "Masters",
+      "deadline": "2027-02-01",
+      "link": "https://www.meritleaders.org/scholarships/smaccs-erasmus-mundus-joint-master-in-smart-cities-and-communities-2027-29",
+      "summary": "Two-year joint master's in smart cities and communities covering energy, building efficiency and smart grids, with an Erasmus Mundus scholarship of about €1,400 per month and no tuition fees for scholarship holders.",
+      "found_at": "2026-11-24T02:17:41.194Z"
+    },
+    {
+      "id": 65,
+      "title": "EU-CORE Erasmus Mundus Joint Master in Control of Renewable Energy Systems 2027–29",
+      "provider": "Erasmus Mundus (Centrale Nantes, University of Zagreb, BTU Cottbus-Senftenberg)",
+      "country": "France, Croatia, Germany",
+      "type": "Masters",
+      "deadline": "2027-01-31",
+      "link": "https://www.meritleaders.org/scholarships/eu-core-erasmus-mundus-joint-master-in-control-of-renewable-energy-systems-2027-29",
+      "summary": "Two-year joint master's in control and automation of renewable energy systems with an Erasmus Mundus scholarship of €1,400 per month for 24 months, open to applicants graduating before 31 July 2027.",
+      "found_at": "2026-11-24T02:17:41.108Z"
+    },
     {
       "id": 64,
       "title": "Australia Awards Scholarship 2028 — Master's for Pakistani Students",
@@ -591,7 +635,7 @@
       "type": "Masters",
       "deadline": "2027-01-27",
       "link": "http://densys.univ-lorraine.fr",
-      "summary": "Fully funded two-year Erasmus Mundus master's in decentralised smart energy systems, including thermal energy engineering, for September 2027 entry.",
+      "summary": "Fully funded two-year Erasmus Mundus joint master's in decentralised smart energy systems, including thermal energy engineering, for September 2027 entry.",
       "found_at": "2026-11-12T02:18:06.722Z"
     },
     {
@@ -714,50 +758,6 @@
       "link": "https://www.studyabroadwitharbaz.com/2026/10/mext-scholarship-science-tokyo-2027.html",
       "summary": "A fully funded MEXT scholarship for master's and doctoral study in science and engineering at Science Tokyo starting September 2027, covering tuition and a monthly living allowance via university nomination.",
       "found_at": "2026-11-08T02:17:23.200Z"
-    },
-    {
-      "id": 8,
-      "title": "Türkiye Burslari (Türkiye Scholarships) 2027",
-      "provider": "Republic of Türkiye / Presidency for Turks Abroad (YTB)",
-      "country": "Türkiye",
-      "type": "Masters",
-      "deadline": "2027-02-20",
-      "link": "https://opportunitiesnexus.com/turkiye-scholarships-2027/",
-      "summary": "A fully funded Turkish government scholarship for master's study covering tuition, a monthly stipend, housing, health insurance, a Turkish language year and return flights, applied for once via the TBBS portal.",
-      "found_at": "2026-11-08T02:17:23.157Z"
-    },
-    {
-      "id": 7,
-      "title": "Stipendium Hungaricum Scholarship 2027/28",
-      "provider": "Government of Hungary / Tempus Public Foundation",
-      "country": "Hungary",
-      "type": "Masters",
-      "deadline": "2027-01-15",
-      "link": "https://scholyhub.com/scholarships/stipendium-hungaricum-scholarship-2027-28/",
-      "summary": "A fully funded Hungarian government scholarship for master's study covering tuition, accommodation, a monthly stipend and health insurance, requiring applications through both the Tempus portal and Pakistan's sending partner (HEC).",
-      "found_at": "2026-11-08T02:17:23.137Z"
-    },
-    {
-      "id": 6,
-      "title": "CSC High-level Postgraduate Scholarship 2027 — Shanghai Ocean University",
-      "provider": "China Scholarship Council / Shanghai Ocean University",
-      "country": "China",
-      "type": "Masters",
-      "deadline": "2027-02-01",
-      "link": "https://ieo.shou.edu.cn/2026/1019/c18223a356309/page.htm",
-      "summary": "A full Chinese Government Scholarship for a three-year master's in China covering tuition, accommodation, a living stipend and medical insurance, applied for via Campus China as CSC Type B.",
-      "found_at": "2026-11-08T02:17:23.114Z"
-    },
-    {
-      "id": 5,
-      "title": "Clarendon Scholarship 2027/28 — University of Oxford",
-      "provider": "Clarendon Fund, University of Oxford",
-      "country": "United Kingdom",
-      "type": "Masters",
-      "deadline": null,
-      "link": "https://scholarmena.com/scholarship/clarendon-scholarship-oxford-2027/",
-      "summary": "A fully funded Oxford master's or DPhil award covering course fees plus a living-expenses grant, with automatic consideration for anyone applying to an eligible graduate course by its December 2026 or January 2027 scholarship deadline.",
-      "found_at": "2026-11-08T02:17:23.091Z"
     }
   ],
   "documents": [
