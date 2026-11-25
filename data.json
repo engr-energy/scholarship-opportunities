@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24",
+  "last_updated": "2026-11-25",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -121,6 +121,17 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 69,
+      "title": "Chinese Government Scholarship (CSC) 2027-28 via HEC Pakistan — Type-A",
+      "provider": "China Scholarship Council / HEC Pakistan",
+      "country": "China",
+      "type": "Masters",
+      "deadline": "2027-01-05",
+      "link": "https://www.resultonline.pk/news/chinese-government-scholarship-programme-2027-28-announced-for-bachelors-masters-and-phd-47827.htm",
+      "summary": "Fully funded master's in China for Pakistani students, covering tuition, a living allowance, health insurance and travel, with 21 master's seats allocated for 2027-28.",
+      "found_at": "2026-11-25T02:17:25.496Z"
+    },
     {
       "id": 68,
       "title": "RESCO Erasmus Mundus Joint Master in Renewable Energy and Sustainable Construction 2027–29",
