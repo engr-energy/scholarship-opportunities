@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25",
+  "last_updated": "2026-11-26",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -121,6 +121,39 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 72,
+      "title": "Australia Awards Scholarship — Pakistan (2028 intake, opening early 2027)",
+      "provider": "Australian Government (DFAT) / Australia Awards Pakistan",
+      "country": "Australia",
+      "type": "Masters",
+      "deadline": null,
+      "link": "https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates",
+      "summary": "Fully funded master's study in Australia covering tuition, travel, a living stipend and health cover; the 2027 intake closed 30 April 2026 and the next round for 2028 entry is expected to open in early 2027.",
+      "found_at": "2026-11-26T02:18:09.414Z"
+    },
+    {
+      "id": 71,
+      "title": "CERN Summer Student Programme 2027 (Member and Non-Member States)",
+      "provider": "CERN",
+      "country": "Switzerland",
+      "type": "Internship",
+      "deadline": "2027-01-21",
+      "link": "https://opportunitylab.net/cern-summer-student-programme-2027/",
+      "summary": "A paid two-month summer research placement in Geneva for bachelor's/master's students in physics, engineering and computing, paying CHF 94 per day plus health insurance and travel assistance.",
+      "found_at": "2026-11-26T02:18:09.389Z"
+    },
+    {
+      "id": 70,
+      "title": "Commonwealth Shared Scholarships 2027/28 (UK)",
+      "provider": "Commonwealth Scholarship Commission in the UK",
+      "country": "United Kingdom",
+      "type": "Masters",
+      "deadline": "2026-12-08",
+      "link": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/?fbclid=IwY2xjawVekGNleHRuA2FlbQIxMABwZG9mBWJyaWQRMUVSZlZXUmtaMnJtdUgzVnlzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEfCuhYhDJF1vQSgehWkm3w9A5IdZlwNW4CaiV3QEOalDAEhwzrNaf7DWxsRMM_aem_VZueilkBHT5tmqbYuylz1w",
+      "summary": "Jointly funded one-year master's scholarships for students from eligible Commonwealth countries including Pakistan, covering full tuition, a return flight and a monthly stipend.",
+      "found_at": "2026-11-26T02:18:09.324Z"
+    },
     {
       "id": 69,
       "title": "Chinese Government Scholarship (CSC) 2027-28 via HEC Pakistan — Type-A",
@@ -736,39 +769,6 @@
       "link": "https://daadscholarship.com/ms-phd-scholarships-2027-open-at-huazhong-university-of-science-and-technology-hust/",
       "summary": "Fully funded CSC Type B master's at Huazhong University of Science and Technology covering tuition, accommodation, stipend and insurance, including a Silk Road route that lists Pakistan.",
       "found_at": "2026-11-09T02:17:53.861Z"
-    },
-    {
-      "id": 12,
-      "title": "Stipendium Hungaricum Scholarship 2027–28",
-      "provider": "Government of Hungary / Tempus Public Foundation",
-      "country": "Hungary",
-      "type": "Masters",
-      "deadline": "2027-01-15",
-      "link": "http://scholarshipsjet.com/2026/07/13/stipendium-hungaricum-2027-fully-funded-hungarian-government-scholarship/",
-      "summary": "Fully funded Hungarian government scholarship covering tuition, housing allowance, medical insurance and a HUF 43,700/month stipend, applied for through both Tempus and the home-country Sending Partner.",
-      "found_at": "2026-11-09T02:17:53.835Z"
-    },
-    {
-      "id": 11,
-      "title": "Commonwealth Shared Scholarships 2027–28",
-      "provider": "Commonwealth Scholarship Commission",
-      "country": "United Kingdom",
-      "type": "Masters",
-      "deadline": "2026-12-08",
-      "link": "https://www.studywithalizubair.com/blog/commonwealth-scholarship-2027-28-pakistan",
-      "summary": "Fully funded taught master's at participating UK universities, with applications opening 10 November 2026 and closing 8 December 2026.",
-      "found_at": "2026-11-09T02:17:53.796Z"
-    },
-    {
-      "id": 10,
-      "title": "MEXT Scholarship 2027 at Institute of Science Tokyo — International Graduate Program (A)",
-      "provider": "MEXT (Government of Japan) / Institute of Science Tokyo",
-      "country": "Japan",
-      "type": "Masters",
-      "deadline": "2026-11-22",
-      "link": "https://www.studyabroadwitharbaz.com/2026/10/mext-scholarship-science-tokyo-2027.html",
-      "summary": "A fully funded MEXT scholarship for master's and doctoral study in science and engineering at Science Tokyo starting September 2027, covering tuition and a monthly living allowance via university nomination.",
-      "found_at": "2026-11-08T02:17:23.200Z"
     }
   ],
   "documents": [
