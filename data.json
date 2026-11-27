@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26",
+  "last_updated": "2026-11-27",
   "owner": "Muhammad Ismail — BS Energy Engineering, UET Peshawar (graduating July 2027)",
   "opportunities": [
     {
@@ -121,6 +121,17 @@
     }
   ],
   "discoveries": [
+    {
+      "id": 73,
+      "title": "DENSYS 2.0 Erasmus Mundus Joint Master 2027-2029",
+      "provider": "Erasmus Mundus / KTH, Université de Lorraine and partners",
+      "country": "Europe",
+      "type": "Masters",
+      "deadline": "2027-01-27",
+      "link": "https://www.kth.se/en/2.985/decentralized-smart-energy-systems",
+      "summary": "Two-year Erasmus Mundus Joint Master in Decentralised Smart Energy Systems covering renewable integration, hydrogen, energy storage and smart grids, with Erasmus Mundus scholarships available.",
+      "found_at": "2026-11-27T02:17:50.944Z"
+    },
     {
       "id": 72,
       "title": "Australia Awards Scholarship — Pakistan (2028 intake, opening early 2027)",
@@ -758,17 +769,6 @@
       "link": "https://opportunitiescorners.com/kaust-vsrp-internship-2027/",
       "summary": "Fully funded 3–6 month research internship in energy and other STEM fields with a $1,000/month stipend, accommodation, flights and insurance, with applications open all year.",
       "found_at": "2026-11-09T02:17:53.891Z"
-    },
-    {
-      "id": 13,
-      "title": "HUST CSC Scholarship 2027 — Chinese Government Scholarship Type B",
-      "provider": "Chinese Government Scholarship / Huazhong University of Science and Technology",
-      "country": "China",
-      "type": "Masters",
-      "deadline": "2027-02-25",
-      "link": "https://daadscholarship.com/ms-phd-scholarships-2027-open-at-huazhong-university-of-science-and-technology-hust/",
-      "summary": "Fully funded CSC Type B master's at Huazhong University of Science and Technology covering tuition, accommodation, stipend and insurance, including a Silk Road route that lists Pakistan.",
-      "found_at": "2026-11-09T02:17:53.861Z"
     }
   ],
   "documents": [
